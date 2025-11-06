@@ -1,17 +1,14 @@
-htmljs-parser      : 1.09787 ms/file ± 2.55625
-tl                 : 1.22016 ms/file ± 0.722484
-htmlparser2        : 2.79462 ms/file ± 4.66258
-html5parser        : 3.03089 ms/file ± 4.27860
-neutron-html5parser: 3.24972 ms/file ± 2.24114
-node-html-parser   : 3.50141 ms/file ± 2.58325
-html-dom-parser    : 3.69345 ms/file ± 4.84459
-htmlparser2-dom    : 3.82607 ms/file ± 5.05030
-zeed-dom           : 6.33492 ms/file ± 4.18132
-parse5             : 9.24619 ms/file ± 12.5599
-sax                : 12.7137 ms/file ± 13.1730
-htmlparser         : 18.8642 ms/file ± 113.819
-arijs-stream       : 24.4302 ms/file ± 22.6473
-arijs-tree         : 26.6179 ms/file ± 23.9979
-html-parser        : 35.0234 ms/file ± 27.4930
-saxes              : 70.1185 ms/file ± 196.870
-html5              : 142.267 ms/file ± 183.915
+htmljs-parser      : 0.709142 ms/file ± 1.51956
+tl                 : 0.801174 ms/file ± 0.545641
+htmlparser2        : 1.64746 ms/file ± 2.54706
+html5parser        : 1.69274 ms/file ± 2.43940
+neutron-html5parser: 2.14723 ms/file ± 1.28002
+htmlparser2-dom    : 2.23548 ms/file ± 2.94724
+node-html-parser   : 2.43408 ms/file ± 1.85577
+sax                : 9.67842 ms/file ± 9.74666
+arijs-stream       : 15.3477 ms/file ± 13.4140
+htmlparser         : 18.7659 ms/file ± 141.612
+arijs-tree         : 19.5302 ms/file ± 16.7580
+html-parser        : 21.6328 ms/file ± 16.5831
+saxes              : 41.1257 ms/file ± 116.211
+html5              : 82.3712 ms/file ± 109.505
